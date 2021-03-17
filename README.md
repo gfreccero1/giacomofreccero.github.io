@@ -1,2 +1,2 @@
 # giacomofreccero.github.io
-Website for GA projects
+This is a Website where I host my GA projects, including a presentation detailing my capstone project, an executive summary and the notebook with the code.
